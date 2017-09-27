@@ -1,3 +1,4 @@
 print("This is a lovely campus!")
 print("That clock tower is really tall!")
 print("very impressive!")
+print("online editor is cool!")
